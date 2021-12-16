@@ -1,0 +1,19 @@
+$main-color: #6E46E6; 
+$color-small: #717191;
+$color-number: #3D3D67;
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+input[type="date"] {
+  -moz-appearance: textfield;
+}
