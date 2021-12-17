@@ -15,8 +15,8 @@
         </div>
       </div>
 
-      <div class="btn-changer" @click="changeType">
-        <span class="btn-changer-span">
+      <div class="btn-changer">
+        <span class="btn-changer-span" @click="changeType">
           <img src="../../../assets/img/icoChanger.png" alt="" />
         </span>
       </div>
